@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "content": "This is me hosting my journal in __github gists__ and hoping it will be easier to use. This should be the updated version, but we will see. :sweat_smile:",
+    "date":"2024-02-18T15:54:24Z",
+    "mood":"excited",
+    "location":{"lat":"0.00", "lon":"0.00"}
+  },
+  {
+    "id": 2,
+    "content": "This page also supports markdown as far as i know __this should be bold__",
+    "date":"2024-02-18T16:00:24Z",
+    "mood":"idk",
+    "location":{"lat":"0.00", "lon":"0.00"}
+  }
+]
